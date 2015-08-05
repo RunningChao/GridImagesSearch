@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GridImageSearch</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="search_Label">Search</string>
+    <string name="query_empty">Please input query keyWord</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_advance_search_options">AdvanceSearchOptionsActivity</string>
+
+    <array name="imageSizeArray">
+        <item>any</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>extra-large</item>
+    </array>
+    <array name="imageColorArray">
+        <item>any</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+    </array>
+    <array name="imageTypeArray">
+        <item>any</item>
+        <item>faces</item>
+        <item>photo</item>
+        <item>clip art</item>
+        <item>line art</item>
+    </array>
+</resources>
